@@ -1,6 +1,6 @@
 # Interfaces-Inteligentes
 
-Este proyecto implementa un juego similar a los antiguos roguelikes, pero adapatados las nuevas tecnologías. Ha sido creado como proyecto de realidad virtual en Unity para la asignatura de Interfaces Inteligentes. 
+Este proyecto implementa un juego similar a los antiguos roguelikes, pero adaptados las nuevas tecnologías. Ha sido creado como proyecto de realidad virtual en Unity para la asignatura de Interfaces Inteligentes. 
 
 ## Descarga del proyecto
 
@@ -20,7 +20,7 @@ Al comienzo del juego se generará **aleatoriamente** un mapa con un **laberinto
 
 ![imagen1](img/imagen1.jpg)
 
-Si le resulta demasiado complicado encontrar la salida del laberinto, puede apuntar al suelo y pulsar el botón del visor. Esto generará una serie de partculas que le guiarán de camino a la primera sala.
+Si le resulta demasiado complicado encontrar la salida del laberinto, puede apuntar al suelo y pulsar el botón del visor. Esto generará una serie de partículas que le guiarán de camino a la primera sala.
 
 ![imagen2](./img/imagen2.jpg)
 
@@ -36,7 +36,7 @@ En este momento comienzan a surgir los enemigos poco a poco, 10 en total, alrede
 
 ### Fase 3 
 
-Si lográ superar con éxito la anterior fase, tendrá que atravesar el pasillo que le lleva a la sala final. Sin embargo, en esta fase el movimiento del jugador no está permitido, solo podrá desplazarse hacia los lados moviendo la cabeza (haciendo uso de los sensores del acelerómetro del dispositivo). 
+Si logra superar con éxito la anterior fase, tendrá que atravesar el pasillo que le lleva a la sala final. Sin embargo, en esta fase el movimiento del jugador no está permitido, solo podrá desplazarse hacia los lados moviendo la cabeza (haciendo uso de los sensores del acelerómetro del dispositivo). 
 
 Se situará al jugador al comienzo del pasillo con una velocidad constante al tiempo que partes del suelo se van cayendo. El objetivo del jugador será tratar de sortear los huecos en suelo para no precipitarse al vacio.
 
