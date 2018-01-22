@@ -56,4 +56,4 @@ Una vez superadas todas las fases anteriores, el jugador podrá depositar en el 
 * [x] Incorporación de los datos obtenidos del acelerómetro para desplazar al jugador hacia los lados en la fase 3.
 * [x] Uso de varias formas de interacción (Botón del cardboard, touchpad de DayDream).
 * [x] Uso de animaciones para los enemigos, con una máquina de estados de las mismas para varias de animación en función de las circunstancias.
-
+* [x] Uso de músicas en diferentes partes del juego para mejorar la experiencia.
