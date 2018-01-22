@@ -7,9 +7,6 @@ Este proyecto implementa un juego similar a los antiguos roguelikes, pero adapat
 
 Para un correcto funcionamiento, será necesario instalar el juego en un dispositivo Android con una versión superior o igual a la 7.0. Además, debe disponer de un visor de RV compatible con [Daydream](https://vr.google.com/daydream/).
 
-
-Para moverse por el juego, deberá hacerse uso del touchpad de un controlador DayDream, para ello, se puede usar un emulador para Android [Intrucciones aquí](https://developers.google.com/vr/daydream/controller-emulator). El cual también puede usarse para probarse en Unity. (Si no, usar ctrl+shift+ mover el ratón)
-
 ## Instrucciones de juego
 
 ### Fase 1
@@ -26,7 +23,8 @@ Una vez encontrada la sala, tendrá que buscar la llave que se encuentra en el c
 ![imagen3](img/image3)
 
 ### Fase 2
-En este momento comienzan a surgir los enemigos poco a poco, 10 en total, alrededor de la sala. El jugador deberá dispararles con ayuda del gamepad y evitar que se acerquen demasiado, de lo contrario le matarán y habrá perdido la partida. Además, antes de que aparezca el enemigo, unas partículas haciendo efecto de humo avisan de la posición en la que saldrá.
+
+En este momento comienzan a surgir los enemigos, 10 en total, alrededor de la sala. El jugador deberá dispararles con ayuda del gamepad y evitar que se acerquen demasiado, de lo contrario le matarán y habrá perdido la partida. 
 
 ### Fase 3 
 
@@ -49,8 +47,9 @@ Una vez superadas todas las fases anteriores, el jugador podrá depositar en el 
 
 * [x] Generación de un laberinto aleatorio cada partida. 
 * [x] Desarrollo de un skybox personalizado.
-* [x] Numerosos sistemas de partículas, algunos de ellos propios.
-* [x] Uso del patrón singleton para el controlador, así como de eventos de Unity.
-* [x] Uso de varias formas de interacción (Botón del cardboard, touchpad de DayDream).
-* [x] Uso del acelerómetro.
-* [x] Uso de animaciones para los enemigos, con una máquina de estados de las mismas para varias de animación en función de las circunstancias.
+* [x] Interacción del personaje con diferentes elementos de la escena (llave, enemigos, baúl).
+* [x] Uso de sistemas de partículas al generar los enemigos, la solución del laberinto, al capturar la llave. 
+* [x] Creación de un evento para detectar cuando el jugador ha perdido y parar, de este modo, el movimiento de los enemigos.
+* [x] Usar recomendaciones de VR. Añadir transiciones de fundido a negro, antes de mover a un personaje de un sitio a otro.
+* [x] Incorporación de los datos obtenidos del acelerómetro para desplazar al jugador hacia los lados en la fase 3.
+
