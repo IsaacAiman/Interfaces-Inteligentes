@@ -14,19 +14,21 @@ Para moverse por el juego, deberá hacerse uso del touchpad de un controlador Da
 ### Fase 1
 Al comienzo del juego se generará **aleatoriamente** un mapa con un **laberinto** y **dos salas** conectadas por medio de un **pasillo**. El jugador aparecerá en medio de uno de los pasillos del laberinto y, a partir de este momento, deberá recorrer los pasillos en penumbra, buscando el camino correcto que le llevará a la primera sala.
 
-![imagen1](img/image1)
+![imagen1](img/imagen1.jpg)
 
 Si le resulta demasiado complicado encontrar la salida del laberinto, puede apuntar al suelo y pulsar el botón del visor. Esto generará una serie de partculas que le guiarán de camino a la primera sala.
 
-![imagen2](img/image2)
+![imagen2](./img/imagen2.jpg)
 
 Una vez encontrada la sala, tendrá que buscar la llave que se encuentra en el centro de la misma y que permitirá al jugador avanzar de fase.
 
-![imagen3](img/image3)
+![imagen3](img/imagen3.jpg)
 
 ### Fase 2
 
 En este momento comienzan a surgir los enemigos poco a poco, 10 en total, alrededor de la sala. El jugador deberá dispararles con ayuda del gamepad y evitar que se acerquen demasiado, de lo contrario le matarán y habrá perdido la partida. Además, antes de que aparezca el enemigo, unas partículas haciendo efecto de humo avisan de la posición en la que saldrá.
+
+![imagen4](img/imagen4.jpg)
 
 ### Fase 3 
 
@@ -35,14 +37,14 @@ Si lográ superar con éxito la anterior fase, tendrá que atravesar el pasillo 
 Se situará al jugador al comienzo del pasillo con una velocidad constante al tiempo que partes del suelo se van cayendo. El objetivo del jugador será tratar de sortear los huecos en suelo para no precipitarse al vacio.
 
 
-![imagen4](img/image4)
+![imagen4](img/imagen5.jpg)
 
 ### Fase 4
 
 Una vez superadas todas las fases anteriores, el jugador podrá depositar en el baúl la llave que capturó en la fase 1, consiguiendo, de esta forma, alzarse con la codiciosa victoria. 
 
 
-![imagen5](img/image5)
+![imagen5](img/imagen6.jpg)
 
 
 # Hitos 
