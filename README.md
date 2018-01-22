@@ -1,7 +1,11 @@
 # Interfaces-Inteligentes
 
-
 Este proyecto implementa un juego similar a los antiguos roguelikes, pero adapatados las nuevas tecnologías. Ha sido creado como proyecto de realidad virtual en Unity para la asignatura de Interfaces Inteligentes. 
+
+## Descarga del proyecto
+
+(Requiere correo de la Universidad de La Laguna)
+[Enlace](https://drive.google.com/file/d/1R2mvPlrJXHGfCnZJdftl0iU1o11OnGVl/view?usp=sharing)
 
 ## Funcionamiento
 
