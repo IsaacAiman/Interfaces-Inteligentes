@@ -49,3 +49,8 @@ Una vez superadas todas las fases anteriores, el jugador podrá depositar en el 
 
 * [x] Generación de un laberinto aleatorio cada partida. 
 * [x] Desarrollo de un skybox personalizado.
+* [x] Numerosos sistemas de partículas, algunos de ellos propios.
+* [x] Uso del patrón singleton para el controlador, así como de eventos de Unity.
+* [x] Uso de varias formas de interacción (Botón del cardboard, touchpad de DayDream).
+* [x] Uso del acelerómetro.
+* [x] Uso de animaciones para los enemigos, con una máquina de estados de las mismas para varias de animación en función de las circunstancias.
