@@ -11,7 +11,7 @@ Este proyecto implementa un juego similar a los antiguos roguelikes, pero adapta
 
 Para un correcto funcionamiento, será necesario instalar el juego en un dispositivo Android con una versión superior o igual a la 7.0. Además, debe disponer de un visor de RV compatible con [Daydream](https://vr.google.com/daydream/).
 
-Para moverse por el juego, deberá hacerse uso del touchpad de un controlador DayDream, para ello, se puede usar un emulador para Android [Intrucciones aquí](https://developers.google.com/vr/daydream/controller-emulator). El cual también puede usarse para probarse en Unity. (Si no, usar ctrl+shift+ mover el ratón)
+Para moverse por el juego, deberá hacerse uso del touchpad de un controlador DayDream, para ello, se puede usar un emulador para Android [Intrucciones aquí](https://developers.google.com/vr/daydream/controller-emulator). El cual también puede usarse para probarse en Unity. (Si no, usar ctrl+shift+ mover el ratón). Para hacer click, se puede usar el botón de una cardboard(no recomendado) o hacer doble pulsación en el touchpad del controlador de DayDream.
 
 ## Instrucciones de juego
 
