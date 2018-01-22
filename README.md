@@ -32,6 +32,18 @@ Si lográ superar con éxito la anterior fase, tendrá que atravesar el pasillo 
 
 Se situará al jugador al comienzo del pasillo con una velocidad constante al tiempo que partes del suelo se van cayendo. El objetivo del jugador será tratar de sortear los huecos en suelo para no precipitarse al vacio.
 
+
+![imagen4](img/image4)
+
 ### Fase 4
 
-Una vez superadas todas las fases anteriores,
+Una vez superadas todas las fases anteriores, el jugador podrá depositar en el baúl la llave que capturó en la fase 1, consiguiendo, de esta forma, alzarse con la codiciosa victoria. 
+
+
+![imagen5](img/image5)
+
+
+# Hitos 
+
+* [x] Generación de un laberinto aleatorio cada partida. 
+* [x] Desarrollo de un skybox personalizado.
