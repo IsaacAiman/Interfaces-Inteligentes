@@ -62,6 +62,8 @@ Una vez superadas todas las fases anteriores, el jugador podrá depositar en el 
 
 Al ser reducido el número de miembros del grupo (2), una gran parte del trabajo se ha realizado en conjunto. Sin embargo, hay ciertas partes que se han hecho de forma individual, lo cual se detalla a continuación.
 
+Es importante destacar que la colaboración ha sido muy estrecha, por lo que no se debería hablar de puestas en común del trabajo, puesto que siempre un miembro le comunicaba a otro lo que iba haciendo.
+
 **Trabajo realizado en solitario por Pablo:**
 * Fase 3
 * Generación del pasillo de conexión entre habitaciones
