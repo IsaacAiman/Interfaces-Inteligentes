@@ -57,3 +57,29 @@ Una vez superadas todas las fases anteriores, el jugador podrá depositar en el 
 * [x] Uso de varias formas de interacción (Botón del cardboard, touchpad de DayDream).
 * [x] Uso de animaciones para los enemigos, con una máquina de estados de las mismas para varias de animación en función de las circunstancias.
 * [x] Uso de músicas en diferentes partes del juego para mejorar la experiencia.
+
+# Acta de Trabajo en Equipo
+
+Al ser reducido el número de miembros del grupo (2), una gran parte del trabajo se ha realizado en conjunto. Sin embargo, hay ciertas partes que se han hecho de forma individual, lo cual se detalla a continuación.
+
+**Trabajo realizado en solitario por Pablo:**
+* Fase 3
+* Generación del pasillo de conexión entre habitaciones
+* El sistema de animación de los enemigos
+* Fase 2 (salvo evento de muerte)
+
+**Trabajo realizado por Isaac:**
+* Créditos finales
+* Fundidos a negro
+* Interacción con el Baúl en la última habitación
+* Sistema de ayuda al usuario para encontrar la habitación (Partículas y algoritmo)
+* Evento de muerte
+
+**En conjunto:**
+* Diseño del juego (Qué fases, jugabilidad, etc)
+* Interacción con DayDream
+* Generación del laberinto (MazeCell, MazeGen)
+* Controlador (interfases)
+* Skybox
+* Músicas
+* Aspectos visuales: Búsqueda de texturas, creación de Skybox, etc.
