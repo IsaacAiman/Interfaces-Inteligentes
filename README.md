@@ -87,3 +87,6 @@ Es importante destacar que la colaboración ha sido muy estrecha, por lo que no 
 * Skybox
 * Músicas
 * Aspectos visuales: Búsqueda de texturas, creación de Skybox, etc.
+
+
+![imagen4](img/imagen7.jpg)
